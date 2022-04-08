@@ -26,7 +26,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### 🇧🇷 Sistemas operacionais em que possuo conhecimento🇧🇷 <br> 🇺🇸 OS in which I've knowledge🇬🇧
+#### 🇧🇷 Sistemas operacionais em que possuo conhecimento 🇧🇷 <br> 🇺🇸 OS in which I've knowledge 🇬🇧
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -37,7 +37,7 @@
 ![PostegresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-#### 🇧🇷 Meus Queridos Serviços de Nuvem 🇧🇷 <br> 🇺🇸My Favorite Cloud Services 🇬🇧
+#### 🇧🇷 Meus Queridos Serviços de Nuvem 🇧🇷 <br> 🇺🇸 My Favorite Cloud Services 🇬🇧
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -62,11 +62,11 @@
 
 
 
-## 🇧🇷 Um Pouco Mais Sobre Mim 🇧🇷  🇺 🇸About me 🇬🇧
+## 🇧🇷 Um Pouco Mais Sobre Mim 🇧🇷  🇺🇸 About me 🇬🇧
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=codedbs&show_icons=true&theme=graywhite&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbs&&layout=compact)](https://github.com/codedbs/)
 
-| 🇧🇷 Meus hobbies 🇧🇷 | 🇺 🇸My hobbies 🇬🇧|
+| 🇧🇷 Meus hobbies 🇧🇷 | 🇺🇸 My hobbies 🇬🇧|
 | :------ | :----- |
 | Musculação 💪🏾 |  Workout 💪🏾 |
 | Ler livros, jornais e revistas 🤓📖📕📰🤓 | Read books, newspapers and magazine 🤓📖📕📰🤓 |
