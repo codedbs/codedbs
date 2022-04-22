@@ -51,7 +51,7 @@
 | My hobbies |
 
 
-| Workout 💪🏾  | Read books, newspapers and magazine 🤓📖📕📰🤓  | Play Video Game 🎮 |
+| Workout 💪🏾  | Read books and articles 🤓📖📕📰🤓  | Play Video Game 🎮 |
 
 
 
